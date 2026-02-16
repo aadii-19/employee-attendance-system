@@ -9,9 +9,9 @@ const app = express();
 app.use(
   cors({
     origin: [
-    'http://localhost:5173',
-    'https://employee-attendance-system-seven-alpha.vercel.app/login'
-  ],
+      "http://localhost:5173",
+      "https://employee-attendance-system-seven-alpha.vercel.app",
+    ],
     credentials: true,
   }),
 );
