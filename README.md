@@ -1,6 +1,11 @@
 ```markdown
 # Employee Attendance Management System
 
+**Name:** ADITH PRAMOD
+**College:** VEL TECH MULTI TECH DR.RANGARAJAN DR.SAKUNTHALA ENGINEERING COLLEGE (AUTONOMOUS)
+**Contact Number:** +91-8838283238
+**Email:** adithpramod197@gmail.com
+
 ## 1. Project Overview
 
 Employee Attendance Management System is a full-stack web application designed to manage and track daily attendance for organizations effectively, the system provides secure authentication, role-based dashboards for employees and managers, attendance tracking, analytics, and reporting.
