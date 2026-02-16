@@ -10,7 +10,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://employee-attendance-system-seven-alpha.vercel.app",
+      "https://employee-attendance-system-9xcujw74u-aadii-19s-projects.vercel.app/",
     ],
     credentials: true,
   }),
