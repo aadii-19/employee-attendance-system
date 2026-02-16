@@ -3,7 +3,7 @@
 
 ## 1. Project Overview
 
-Employee Attendance Management System is a full-stack web application designed to manage and track daily attendance for organizations. The system provides secure authentication, role-based dashboards for employees and managers, attendance tracking, analytics, and reporting.
+Employee Attendance Management System is a full-stack web application designed to manage and track daily attendance for organizations effectively, the system provides secure authentication, role-based dashboards for employees and managers, attendance tracking, analytics, and reporting.
 
 The application is built using a clean MVC backend architecture and a modular React frontend.
 
